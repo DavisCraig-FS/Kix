@@ -1,6 +1,34 @@
 ﻿<Properties StartupConfiguration="{0FEA7D58-2272-443E-81C3-E9D9641D0245}|Default">
   <MonoDevelop.Ide.ItemProperties.Kix FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Kix.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Kix.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kix/Models/DataManager.cs">
+    <Files>
+      <File FileName="Kix/App.xaml.cs" Line="8" Column="6" />
+      <File FileName="Kix/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Kix/Models/Shoe.cs" Line="1" Column="1" />
+      <File FileName="Kix/Models/DataManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kix" expanded="True">
+            <Node name="Kix" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="DataManager.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Kix.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
